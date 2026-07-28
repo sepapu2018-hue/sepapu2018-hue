@@ -11,26 +11,29 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sepapu2018@gmail.com">
-    <img src="https://img.shields.io/badge/-sepapu2018@gmail.com-000000?style=flat-square&logo=gmail&logoColor=39FF14&labelColor=000000" />
-  </a>
+  📧 <a href="mailto:sepapu2018@gmail.com">sepapu2018@gmail.com</a>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sepapu2018-hue/sepapu2018-hue/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
-<h3 align="center">🕹️ TECH STACK</h3>
+<h3 align="center">🕹️ PLAYER STATS</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ionic,androidstudio,kotlin,java,spring&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker&theme=dark" />
-</p>
+```
+┌─ SYSTEM.LOG ────────────────────────────────────────────┐
+│                                                           │
+│  WEB      ▸ HTML · CSS · JavaScript · TypeScript         │
+│            Angular · React · Node.js                     │
+│                                                           │
+│  MOBILE   ▸ Ionic · Android · Kotlin · Java · Spring      │
+│                                                           │
+│  DATA     ▸ MySQL · PostgreSQL · MongoDB                  │
+│                                                           │
+│  TOOLS    ▸ Git · Docker                                  │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <h3 align="center">📊 STATS</h3>
 
